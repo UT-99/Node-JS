@@ -1,0 +1,14 @@
+{
+  "name": "node_handson1",
+  "version": "1.0.0",
+  "description": "Node handson1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Utkarsh_Tiwari_handson_node_1"
+  ],
+  "author": "UT",
+  "license": "ISC"
+}
